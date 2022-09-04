@@ -1,7 +1,7 @@
 {
-  "name": "react-iconly",
-  "version": "2.2.5",
-  "description": "React component for Iconly icons",
+  "name": "react-iconly-18",
+  "version": "2.2.6",
+  "description": "React component for Iconly icons - React 18 support",
   "author": "jrgarciadev",
   "license": "MIT",
   "repository": "jrgarciadev/react-iconly",
@@ -40,7 +40,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.8.6 || ^17"
+    "react": "^16.8.6 || ^18"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
